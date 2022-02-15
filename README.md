@@ -46,3 +46,5 @@ flowchart LR;
       Go downstairs: 5: Me
       Sit down: 5: Me
 ```
+
+More examples at https://mermaid-js.github.io/mermaid/.
